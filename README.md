@@ -1,5 +1,9 @@
 # CAC-UPB
 Repositorio creado para la actividad CODEFEST
+Grupo: Los Fakers
+- Juan David Fuentes Patiño
+- Alex Daniel Montañez Valenzuela
+- Juan Nicolás Rey Vásquez
 
 # Sistema de Gestión de Citas CAC-UPB
 
