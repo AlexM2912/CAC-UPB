@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 5000,
+    "contrasena": "1234",
+    "Nombre": "alex",
+    "Apellido": "montañez",
+    "discapacidad": true,
+    "primerSemestre": true
+  },
+  {
+    "Id": 496459,
+    "contrasena": "1234",
+    "Nombre": "juan",
+    "Apellido": "fuentes",
+    "discapacidad": false,
+    "primerSemestre": false
+  }
+]
