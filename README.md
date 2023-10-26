@@ -5,6 +5,8 @@ Grupo: Los Fakers
 - Alex Daniel Montañez Valenzuela
 - Juan Nicolás Rey Vásquez
 
+# Video de Youtube: https://www.youtube.com/watch?v=9tmC3_A2ASQ
+
 # Sistema de Gestión de Citas CAC-UPB
 
 Este proyecto consiste en un sistema de gestión de citas para el Centro de Atención al Estudiante (CAC) de la Universidad Pontificia Bolivariana (UPB). El sistema permite a los estudiantes solicitar citas de asesoría y mentoría de manera eficiente, gestionar la distribución de tickets, priorizar la atención, y brindar información sobre el estado de la cola de atención.
@@ -51,7 +53,7 @@ Si deseas contribuir a este proyecto, por favor sigue las pautas de [contribuci�
 
 ## Créditos
 
-Este proyecto ha sido desarrollado por [Tu Nombre] y [Otros Colaboradores].
+Este proyecto ha sido desarrollado por Juan David Fuentes Patiño y Alex Daniel Montañez Valenzuela, Juan Nicolás Rey Vasquez.
 
 ## Licencia
 
